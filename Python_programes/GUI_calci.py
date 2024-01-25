@@ -44,6 +44,7 @@ def clear():
 window = Tk()
 window.title("Calculator program")
 window.geometry("500x500")
+window.configure(bg='#42b9f5')
 
 equation_text = ""
 
