@@ -1,0 +1,53 @@
+sutar,nikhil,100.0,2
+The Alchemist,Paulo Coelho,250.0,15
+1979,nikhil sutar,200.0,25
+1984,George Orwell,300.0,10
+Pride and Prejudice,Jane Austen,400.0,8
+The Great Gatsby,F. Scott Fitzgerald,200.0,5
+Moby-Dick,Herman Melville,500.0,2
+War and Peace,Leo Tolstoy,800.0,12
+Ulysses,James Joyce,450.0,6
+The Catcher in the Rye,J.D. Salinger,320.0,9
+The Odyssey,Homer,600.0,3
+Crime and Punishment,Fyodor Dostoevsky,700.0,4
+The Brothers Karamazov,Fyodor Dostoevsky,750.0,7
+Brave New World,Aldous Huxley,300.0,14
+Wuthering Heights,Emily Brontë,280.0,11
+The Divine Comedy,Dante Alighieri,950.0,1
+Anna Karenina,Leo Tolstoy,550.0,13
+The Hobbit,J.R.R. Tolkien,400.0,18
+The Lord of the Rings,J.R.R. Tolkien,1200.0,5
+Frankenstein,Mary Shelley,220.0,16
+Jane Eyre,Charlotte Brontë,330.0,19
+Don Quixote,Miguel de Cervantes,430.0,8
+The Iliad,Homer,620.0,3
+A Tale of Two Cities,Charles Dickens,380.0,10
+Les Misérables,Victor Hugo,910.0,6
+Dracula,Bram Stoker,270.0,15
+Great Expectations,Charles Dickens,360.0,12
+Madame Bovary,Gustave Flaubert,420.0,7
+The Picture of Dorian Gray,Oscar Wilde,310.0,9
+Fahrenheit 451,Ray Bradbury,290.0,14
+Slaughterhouse-Five,Kurt Vonnegut,340.0,11
+The Grapes of Wrath,John Steinbeck,500.0,4
+Catch-22,Joseph Heller,460.0,13
+The Stranger,Albert Camus,210.0,20
+Beloved,Toni Morrison,250.0,17
+The Road,Cormac McCarthy,280.0,12
+One Hundred Years of Solitude,Gabriel Garcia Marquez,550.0,18
+The Sound and the Fury,William Faulkner,360.0,7
+Lolita,Vladimir Nabokov,320.0,14
+Middlemarch,George Eliot,480.0,9
+Gone with the Wind,Margaret Mitchell,410.0,8
+The Old Man and the Sea,Ernest Hemingway,240.0,16
+Heart of Darkness,Joseph Conrad,190.0,13
+The Sun Also Rises,Ernest Hemingway,350.0,11
+A Farewell to Arms,Ernest Hemingway,380.0,15
+Moby-Dick,Herman Melville,600.0,5
+War and Peace,Leo Tolstoy,750.0,4
+The Odyssey,Homer,580.0,3
+The Aeneid,Virgil,640.0,7
+The Metamorphosis,Franz Kafka,270.0,9
+The Scarlet Letter,Nathaniel Hawthorne,310.0,12
+The Grapes of Wrath,John Steinbeck,500.0,6
+Brave New World,Aldous Huxley,350.0,10
