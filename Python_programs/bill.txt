@@ -1,0 +1,4 @@
+------- Expense Tracker Bill -------
+1. 12/02/2024 - dental kit  - Rs.500.0
+------------------------------------
+Total Expenses: Rs.500.0

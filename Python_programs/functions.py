@@ -118,3 +118,12 @@ def password_validator(password):
          if not has_digit:
             missing.append("special charecter")
          return f"Password is weak! Missing: {','.join(missing)}"   
+
+
+students = {"Alice": [85, 90, 78], "Bob": [72, 88, 91], "Charlie": [89, 87, 94]}
+def calculate_averages(grade):
+   return sum(grades)/len(grades)
+
+for name, grades in students.items():
+    avg = calculate_averages(grades)
+    print(f"{name}'s average grade is {avg:.2f}")
