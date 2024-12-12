@@ -16,4 +16,22 @@ print(product)
 nums = [1,2,3,4,5,6,7,8]
 sqaures = map(lambda x:x ** 2,nums)
 even_sqares = list(filter(lambda x: x%2 ==0 , sqaures))
-print(even_sqares)
+print(f"\n {even_sqares}")
+
+import pandas as pd
+
+# Sample data: product sales
+data = {'Product': ['A', 'B', 'C', 'D', 'E'],
+        'Sales': [150, 90, 60, 30, 20]}
+df = pd.DataFrame(data)
+
+# Sort data by sales in descending order
+df = df.sort_values(by='Sales', ascending=False)
+
+# Calculate cumulative percentage
+df['Cumulative Sales'] = df['Sales'].cumsum()
+df['Cumulative Percentage'] = 100 * df['Cumulative Sales'] / df['Sales'].sum()
+
+# Identify top 20% products contributing to ~80% sales
+top_products = df[df['Cumulative Percentage'] <= 80]
+print(f"\n {top_products}")
