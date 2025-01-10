@@ -2,3 +2,13 @@
 1. 12/02/2024 - dental kit  - Rs.500.0
 ------------------------------------
 Total Expenses: Rs.500.0
+
+
+row_id INT PRIMARY KEY,
+    order_id VARCHAR(50),
+    created_at DATETIME,
+    item_id INT,
+    quantity INT,
+    cust_id INT,
+    delivery BOOLEAN,
+    add_id INT,

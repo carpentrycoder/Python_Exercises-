@@ -10,3 +10,7 @@ common_contacts = friends.intersection(family)
 print(common_contacts)
 
 print(f"\nTotal Unique Contacts: {len(all_contacts)}")
+
+
+import getindianname
+print(dir(getindianname))

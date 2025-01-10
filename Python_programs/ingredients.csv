@@ -1,0 +1,1001 @@
+ing_id,ing_name,ing_weight,ing_meas,ing_price
+1,Spinach,293.73,g,193.43
+2,Feta Cheese,430.11,L,21.85
+3,Chicken,177.2,g,67.34
+4,Arugula,372.04,g,10.28
+5,Ham,499.24,g,140.75
+6,Sausage,394.71,L,28.42
+7,Parmesan Cheese,303.88,g,162.18
+8,Ham,178.54,L,197.03
+9,Feta Cheese,317.21,L,112.49
+10,Cheddar Cheese,414.39,g,103.11
+11,Olives,221.42,g,198.52
+12,Anchovies,481.74,L,46.18
+13,Feta Cheese,102.07,L,163.45
+14,Cheddar Cheese,134.09,L,175.13
+15,Cheddar Cheese,133.5,g,186.24
+16,Spinach,487.73,ml,29.57
+17,Pineapple,65.05,g,110.63
+18,Pepperoni,478.24,kg,20.23
+19,Mushrooms,213.64,ml,130.72
+20,Ricotta Cheese,484.23,L,99.06
+21,Sausage,471.74,g,75.91
+22,Arugula,240.92,g,193.81
+23,Olives,87.05,g,42.53
+24,Spinach,141.2,g,63.9
+25,Artichokes,442.07,ml,127.17
+26,Feta Cheese,100.97,L,169.53
+27,Feta Cheese,409.62,g,157.17
+28,Spinach,481.5,ml,115.25
+29,Ricotta Cheese,191.0,L,15.71
+30,Mozzarella Cheese,125.81,kg,168.6
+31,Mozzarella Cheese,275.83,kg,72.1
+32,Arugula,176.4,ml,48.01
+33,Chicken,134.94,g,137.14
+34,Artichokes,205.76,kg,170.57
+35,Spinach,286.94,kg,83.38
+36,Pineapple,422.66,L,195.72
+37,Basil,72.71,g,35.78
+38,Bacon,450.44,g,125.38
+39,Arugula,470.21,ml,184.11
+40,Onions,251.69,g,25.91
+41,Ham,393.58,g,53.08
+42,Mozzarella Cheese,184.47,ml,106.58
+43,Basil,428.31,kg,167.39
+44,Tomato,323.26,ml,172.85
+45,Pesto,340.01,L,110.39
+46,Ham,413.81,ml,128.29
+47,Basil,311.09,L,146.12
+48,Tomato,108.12,g,97.89
+49,Basil,275.94,g,12.61
+50,Sun-dried Tomatoes,449.01,ml,177.34
+51,Arugula,198.4,g,93.0
+52,Mushrooms,398.94,g,15.32
+53,Ricotta Cheese,216.88,g,199.18
+54,Feta Cheese,54.53,kg,111.56
+55,Bell Peppers,238.52,g,103.33
+56,Cheddar Cheese,161.98,g,137.1
+57,Artichokes,212.52,L,11.88
+58,Pepperoni,187.88,ml,30.57
+59,Onions,425.38,L,118.59
+60,Artichokes,122.01,kg,196.96
+61,Mozzarella Cheese,297.24,g,197.19
+62,Chicken,380.52,kg,18.43
+63,Chicken,259.41,kg,10.1
+64,Sun-dried Tomatoes,384.1,L,72.05
+65,Parmesan Cheese,335.92,L,191.75
+66,Feta Cheese,373.97,kg,43.16
+67,Ricotta Cheese,269.39,ml,94.03
+68,Pepperoni,378.32,L,135.59
+69,Tomato,303.05,g,87.01
+70,Basil,482.16,ml,146.18
+71,Pesto,419.0,L,81.03
+72,Chicken,463.9,g,188.72
+73,Parmesan Cheese,76.21,L,186.62
+74,Barbecue Sauce,143.35,g,109.47
+75,Ham,310.84,kg,149.8
+76,Chicken,409.69,kg,21.08
+77,Pesto,324.68,g,155.55
+78,Artichokes,425.83,L,115.23
+79,Arugula,232.19,kg,163.75
+80,Pineapple,326.48,kg,24.06
+81,Pineapple,442.95,L,157.54
+82,Ricotta Cheese,137.92,kg,106.43
+83,Pepperoni,407.78,ml,65.21
+84,Spinach,497.79,L,174.28
+85,Chicken,143.0,kg,154.0
+86,Garlic,496.62,g,181.37
+87,Mushrooms,372.08,g,134.27
+88,Bacon,164.65,L,123.6
+89,Pineapple,126.11,g,64.03
+90,Pepperoni,102.58,L,184.89
+91,Mozzarella Cheese,491.94,L,82.96
+92,Mushrooms,474.75,g,124.25
+93,Olives,124.24,ml,63.62
+94,Mushrooms,81.51,g,41.84
+95,Garlic,131.13,L,115.62
+96,Tomato,157.7,kg,139.86
+97,Mushrooms,172.93,kg,139.82
+98,Arugula,56.8,g,80.67
+99,Garlic,442.52,kg,174.52
+100,Cheddar Cheese,346.72,L,23.17
+101,Bacon,299.36,g,33.31
+102,Sun-dried Tomatoes,89.8,kg,78.91
+103,Anchovies,490.79,kg,96.41
+104,Bacon,413.52,kg,116.15
+105,Bacon,101.9,ml,95.45
+106,Anchovies,120.43,g,120.18
+107,Garlic,474.48,ml,139.77
+108,Parmesan Cheese,317.44,L,72.72
+109,Pineapple,88.04,ml,182.1
+110,Olives,352.91,ml,186.97
+111,Tomato,437.26,kg,55.61
+112,Tomato,470.66,ml,124.62
+113,Chicken,130.9,g,187.04
+114,Spinach,459.93,g,57.51
+115,Basil,193.4,ml,22.12
+116,Artichokes,443.48,L,62.53
+117,Pineapple,280.91,g,55.88
+118,Basil,423.67,g,113.47
+119,Tomato,357.5,kg,124.08
+120,Olives,347.46,g,17.76
+121,Barbecue Sauce,157.73,ml,41.21
+122,Bacon,282.27,L,30.73
+123,Spinach,438.41,L,89.18
+124,Sun-dried Tomatoes,444.34,g,43.05
+125,Bell Peppers,350.58,g,73.56
+126,Ham,68.65,g,125.79
+127,Basil,478.05,L,188.66
+128,Mozzarella Cheese,84.11,ml,19.83
+129,Spinach,467.9,g,50.69
+130,Arugula,238.44,L,167.81
+131,Ricotta Cheese,201.17,ml,145.3
+132,Anchovies,68.24,ml,16.57
+133,Cheddar Cheese,158.02,ml,184.26
+134,Garlic,455.74,L,189.77
+135,Mushrooms,499.43,ml,103.88
+136,Arugula,494.79,ml,160.36
+137,Mozzarella Cheese,311.26,L,169.89
+138,Ricotta Cheese,58.5,L,167.09
+139,Pineapple,412.68,kg,179.74
+140,Garlic,222.69,g,173.23
+141,Bacon,65.93,g,38.52
+142,Pepperoni,104.22,kg,180.47
+143,Garlic,465.5,L,141.84
+144,Arugula,104.88,ml,146.6
+145,Bacon,371.69,L,101.52
+146,Ricotta Cheese,489.25,kg,146.55
+147,Feta Cheese,122.13,L,175.97
+148,Ham,303.72,ml,116.3
+149,Sausage,457.4,g,160.8
+150,Mushrooms,54.88,kg,82.51
+151,Anchovies,134.76,L,124.22
+152,Pineapple,492.24,g,177.41
+153,Garlic,391.17,ml,124.49
+154,Anchovies,52.78,ml,47.36
+155,Sun-dried Tomatoes,198.98,g,159.54
+156,Cheddar Cheese,232.15,L,55.34
+157,Bell Peppers,57.36,ml,21.77
+158,Mushrooms,464.34,ml,51.18
+159,Olives,303.52,L,161.31
+160,Barbecue Sauce,264.13,L,157.39
+161,Olives,363.7,L,121.91
+162,Ham,95.96,L,185.33
+163,Feta Cheese,95.94,kg,76.04
+164,Ham,444.77,kg,168.84
+165,Feta Cheese,482.02,kg,192.26
+166,Sun-dried Tomatoes,375.53,kg,121.47
+167,Artichokes,114.64,kg,101.7
+168,Feta Cheese,50.08,ml,80.13
+169,Mushrooms,398.54,ml,118.26
+170,Cheddar Cheese,138.78,ml,131.46
+171,Mozzarella Cheese,350.78,kg,28.32
+172,Anchovies,238.46,kg,86.78
+173,Ham,463.48,L,71.64
+174,Sausage,109.14,ml,25.19
+175,Pineapple,153.02,g,91.74
+176,Chicken,123.85,g,101.83
+177,Sausage,161.14,kg,125.74
+178,Mozzarella Cheese,335.48,ml,135.6
+179,Pepperoni,417.39,kg,161.75
+180,Feta Cheese,188.24,ml,86.87
+181,Parmesan Cheese,239.4,ml,77.19
+182,Spinach,56.71,L,198.87
+183,Sun-dried Tomatoes,434.46,kg,80.85
+184,Pesto,468.83,L,70.94
+185,Sun-dried Tomatoes,379.76,L,166.47
+186,Sun-dried Tomatoes,372.56,ml,46.9
+187,Spinach,208.65,kg,49.45
+188,Olives,435.8,kg,160.07
+189,Pepperoni,153.04,g,103.5
+190,Ricotta Cheese,167.84,L,110.18
+191,Sun-dried Tomatoes,256.34,ml,11.8
+192,Ricotta Cheese,167.97,ml,17.34
+193,Sausage,447.99,kg,198.07
+194,Ricotta Cheese,80.67,L,179.32
+195,Olives,498.83,ml,61.57
+196,Bell Peppers,272.13,kg,86.33
+197,Bell Peppers,130.68,L,104.11
+198,Bacon,432.18,ml,158.61
+199,Spinach,242.94,kg,12.84
+200,Sausage,360.71,L,156.98
+201,Bell Peppers,407.21,L,148.0
+202,Garlic,64.4,L,116.8
+203,Tomato,438.27,ml,41.18
+204,Onions,169.78,L,40.52
+205,Pepperoni,164.38,g,139.45
+206,Spinach,350.97,ml,146.55
+207,Feta Cheese,223.29,L,57.72
+208,Anchovies,99.81,ml,152.96
+209,Pesto,388.21,kg,129.68
+210,Mozzarella Cheese,429.67,g,47.69
+211,Barbecue Sauce,315.27,ml,53.99
+212,Sausage,402.39,kg,100.25
+213,Sausage,238.96,L,82.52
+214,Cheddar Cheese,113.78,ml,72.97
+215,Basil,63.33,g,158.74
+216,Pesto,78.1,kg,30.55
+217,Chicken,366.17,kg,10.16
+218,Olives,368.06,g,117.96
+219,Mushrooms,236.17,g,75.01
+220,Parmesan Cheese,380.8,kg,120.4
+221,Cheddar Cheese,319.96,ml,85.88
+222,Olives,136.09,L,179.35
+223,Spinach,337.78,ml,178.47
+224,Arugula,160.0,ml,106.73
+225,Chicken,61.57,kg,161.74
+226,Bacon,224.58,ml,18.08
+227,Ham,150.39,ml,91.2
+228,Tomato,171.39,g,173.4
+229,Ham,291.41,kg,117.17
+230,Anchovies,323.97,kg,147.17
+231,Pineapple,211.25,ml,172.71
+232,Mozzarella Cheese,385.57,L,96.05
+233,Olives,247.08,ml,133.47
+234,Pineapple,269.98,L,93.12
+235,Pesto,406.67,kg,162.98
+236,Pepperoni,203.35,L,49.14
+237,Pepperoni,410.38,ml,122.49
+238,Mushrooms,225.56,L,119.4
+239,Parmesan Cheese,65.87,L,85.78
+240,Pineapple,311.87,ml,48.1
+241,Pineapple,175.71,L,34.89
+242,Artichokes,489.31,ml,17.04
+243,Tomato,134.95,ml,150.93
+244,Artichokes,429.79,L,50.0
+245,Feta Cheese,122.89,L,170.45
+246,Sun-dried Tomatoes,447.2,g,199.62
+247,Pesto,116.49,ml,46.86
+248,Mushrooms,486.87,ml,179.64
+249,Mushrooms,346.31,g,167.87
+250,Garlic,185.64,L,157.75
+251,Pesto,498.11,g,165.76
+252,Bell Peppers,461.93,ml,190.15
+253,Pesto,112.73,L,86.34
+254,Bell Peppers,333.76,ml,120.66
+255,Feta Cheese,120.97,kg,83.93
+256,Basil,135.98,g,31.91
+257,Pineapple,304.81,L,199.4
+258,Onions,415.53,ml,124.33
+259,Spinach,166.15,g,33.11
+260,Arugula,102.1,L,105.39
+261,Anchovies,91.68,L,114.67
+262,Sausage,337.0,L,21.7
+263,Barbecue Sauce,340.86,kg,185.38
+264,Barbecue Sauce,149.82,kg,93.39
+265,Sausage,177.73,ml,100.47
+266,Pineapple,130.41,L,99.78
+267,Artichokes,195.07,L,151.27
+268,Ham,77.7,g,20.69
+269,Pepperoni,287.23,L,31.14
+270,Arugula,195.17,g,96.66
+271,Arugula,266.9,L,12.67
+272,Sausage,264.29,ml,109.78
+273,Ricotta Cheese,104.73,kg,188.35
+274,Onions,226.08,L,93.46
+275,Cheddar Cheese,319.6,kg,93.31
+276,Olives,261.52,L,41.86
+277,Mushrooms,438.58,g,155.8
+278,Mushrooms,225.44,L,198.99
+279,Bacon,123.78,L,95.61
+280,Onions,180.96,g,105.56
+281,Bell Peppers,213.85,ml,157.8
+282,Cheddar Cheese,483.64,g,80.39
+283,Garlic,294.4,kg,67.09
+284,Anchovies,467.45,kg,59.13
+285,Chicken,112.24,ml,101.44
+286,Feta Cheese,168.99,g,116.15
+287,Pesto,378.39,L,170.29
+288,Cheddar Cheese,388.11,L,111.31
+289,Sausage,221.49,kg,125.65
+290,Pesto,311.61,L,55.21
+291,Sausage,213.69,ml,77.35
+292,Arugula,348.98,ml,46.98
+293,Mozzarella Cheese,96.02,ml,174.56
+294,Garlic,495.17,L,192.7
+295,Pesto,281.57,L,139.06
+296,Basil,353.68,ml,155.63
+297,Cheddar Cheese,294.66,L,151.68
+298,Bacon,269.54,g,105.37
+299,Feta Cheese,59.61,kg,133.21
+300,Chicken,160.67,g,25.99
+301,Olives,322.21,ml,129.39
+302,Feta Cheese,302.37,kg,22.24
+303,Chicken,405.33,kg,145.58
+304,Barbecue Sauce,253.57,L,18.54
+305,Bacon,291.21,g,113.21
+306,Bell Peppers,253.2,L,79.9
+307,Parmesan Cheese,271.22,g,130.84
+308,Onions,193.04,L,11.67
+309,Ham,164.72,g,12.25
+310,Arugula,229.43,L,68.62
+311,Bell Peppers,269.99,L,162.6
+312,Sausage,105.94,g,29.3
+313,Cheddar Cheese,196.55,g,24.38
+314,Parmesan Cheese,200.92,L,34.98
+315,Barbecue Sauce,181.44,ml,151.5
+316,Sausage,97.56,kg,110.41
+317,Tomato,425.19,g,65.36
+318,Mozzarella Cheese,84.84,ml,37.51
+319,Garlic,476.1,L,85.19
+320,Ham,114.08,ml,123.32
+321,Mushrooms,469.94,g,148.43
+322,Pineapple,425.33,ml,120.53
+323,Cheddar Cheese,443.67,kg,43.09
+324,Garlic,129.74,ml,14.59
+325,Bell Peppers,384.91,L,33.62
+326,Pepperoni,82.75,g,29.97
+327,Chicken,131.89,ml,149.52
+328,Feta Cheese,497.47,g,141.75
+329,Pepperoni,371.48,ml,107.95
+330,Mushrooms,194.1,kg,133.79
+331,Bacon,326.96,ml,40.07
+332,Artichokes,410.24,g,198.75
+333,Ricotta Cheese,54.06,ml,120.18
+334,Ricotta Cheese,131.8,ml,34.82
+335,Parmesan Cheese,89.85,L,168.96
+336,Pesto,327.13,kg,70.57
+337,Basil,408.83,ml,161.48
+338,Olives,437.62,ml,101.51
+339,Anchovies,97.62,L,120.28
+340,Barbecue Sauce,369.01,kg,103.74
+341,Mushrooms,176.06,kg,190.25
+342,Cheddar Cheese,451.65,kg,64.8
+343,Tomato,107.03,g,16.93
+344,Ricotta Cheese,116.66,L,147.5
+345,Sausage,119.98,g,92.24
+346,Feta Cheese,311.75,ml,166.68
+347,Pepperoni,471.05,g,21.5
+348,Onions,295.04,kg,88.96
+349,Olives,326.25,g,178.99
+350,Bacon,229.51,L,145.67
+351,Onions,409.88,L,25.36
+352,Olives,224.19,ml,81.84
+353,Garlic,251.23,L,92.77
+354,Onions,115.14,kg,95.89
+355,Basil,470.98,kg,16.02
+356,Barbecue Sauce,420.94,kg,177.18
+357,Cheddar Cheese,150.33,L,187.61
+358,Ham,486.34,kg,56.99
+359,Pineapple,292.39,ml,101.32
+360,Ham,454.88,g,155.46
+361,Spinach,207.03,L,143.08
+362,Spinach,486.28,L,142.7
+363,Arugula,285.56,kg,87.36
+364,Pepperoni,239.42,L,20.22
+365,Sausage,53.04,kg,73.59
+366,Arugula,496.17,ml,30.65
+367,Sun-dried Tomatoes,318.61,g,178.38
+368,Arugula,465.88,g,169.93
+369,Anchovies,475.76,kg,152.43
+370,Tomato,87.59,ml,90.1
+371,Bell Peppers,173.39,L,101.04
+372,Artichokes,124.37,g,132.9
+373,Ham,241.81,g,185.43
+374,Arugula,215.75,g,11.97
+375,Artichokes,452.19,g,15.21
+376,Anchovies,100.45,g,32.55
+377,Feta Cheese,320.75,L,175.02
+378,Garlic,421.78,g,164.92
+379,Sausage,164.74,L,80.06
+380,Pepperoni,173.99,L,73.9
+381,Barbecue Sauce,53.29,kg,192.57
+382,Barbecue Sauce,310.36,L,27.78
+383,Sun-dried Tomatoes,334.58,g,185.94
+384,Arugula,437.97,kg,83.97
+385,Anchovies,207.44,kg,51.75
+386,Olives,422.22,L,111.74
+387,Bacon,195.76,kg,42.59
+388,Ricotta Cheese,259.44,ml,51.74
+389,Mushrooms,463.44,g,166.31
+390,Tomato,160.17,g,146.52
+391,Pineapple,382.58,kg,142.23
+392,Spinach,150.73,kg,90.67
+393,Sausage,307.28,ml,107.01
+394,Spinach,162.71,ml,36.34
+395,Ricotta Cheese,69.28,ml,128.0
+396,Parmesan Cheese,52.88,kg,173.41
+397,Spinach,387.44,L,185.21
+398,Onions,130.95,kg,179.01
+399,Pepperoni,412.91,g,173.91
+400,Parmesan Cheese,55.15,ml,64.62
+401,Bacon,414.6,kg,102.67
+402,Artichokes,497.89,L,156.27
+403,Pineapple,128.68,L,87.23
+404,Chicken,98.2,L,56.53
+405,Basil,296.38,kg,96.44
+406,Chicken,329.39,kg,169.44
+407,Mozzarella Cheese,375.19,L,173.06
+408,Barbecue Sauce,193.84,L,79.75
+409,Sun-dried Tomatoes,336.14,g,16.42
+410,Pesto,65.15,ml,65.87
+411,Olives,165.31,kg,95.64
+412,Pepperoni,375.96,ml,153.66
+413,Bacon,412.45,g,110.98
+414,Mozzarella Cheese,481.79,ml,58.94
+415,Sun-dried Tomatoes,291.17,g,148.37
+416,Mushrooms,323.2,g,69.16
+417,Parmesan Cheese,154.2,kg,14.94
+418,Feta Cheese,234.59,L,124.79
+419,Ham,494.94,g,93.03
+420,Olives,85.27,L,155.31
+421,Bell Peppers,89.41,kg,154.01
+422,Barbecue Sauce,364.32,ml,82.6
+423,Anchovies,162.54,kg,47.88
+424,Onions,208.93,ml,39.88
+425,Ham,113.88,g,108.39
+426,Tomato,389.14,ml,36.05
+427,Pepperoni,111.06,L,97.36
+428,Tomato,334.93,kg,161.21
+429,Cheddar Cheese,259.66,ml,11.66
+430,Mushrooms,94.3,L,129.22
+431,Ricotta Cheese,159.95,L,26.67
+432,Feta Cheese,216.76,L,113.73
+433,Feta Cheese,364.95,kg,187.11
+434,Bacon,323.98,L,120.72
+435,Spinach,221.01,kg,18.74
+436,Onions,416.11,g,58.81
+437,Bacon,351.62,g,117.78
+438,Bell Peppers,214.14,ml,111.88
+439,Parmesan Cheese,309.18,ml,125.78
+440,Spinach,104.51,ml,25.37
+441,Pesto,426.26,g,181.14
+442,Cheddar Cheese,172.86,ml,159.41
+443,Anchovies,50.88,L,96.03
+444,Sun-dried Tomatoes,282.07,L,27.96
+445,Pineapple,332.56,L,98.69
+446,Bacon,286.75,kg,123.62
+447,Artichokes,449.48,ml,73.61
+448,Basil,98.52,g,55.92
+449,Basil,314.84,g,76.81
+450,Spinach,72.85,kg,134.48
+451,Cheddar Cheese,83.77,g,144.56
+452,Tomato,391.7,g,128.16
+453,Arugula,359.57,L,113.45
+454,Mushrooms,453.39,kg,29.53
+455,Arugula,223.76,L,141.48
+456,Sun-dried Tomatoes,280.44,kg,77.05
+457,Bell Peppers,445.71,L,116.49
+458,Ricotta Cheese,496.41,ml,170.12
+459,Olives,453.16,L,67.9
+460,Basil,99.74,g,136.11
+461,Feta Cheese,235.89,g,188.7
+462,Chicken,292.69,g,48.68
+463,Spinach,230.86,g,160.0
+464,Feta Cheese,386.01,g,166.85
+465,Cheddar Cheese,293.27,ml,116.31
+466,Pepperoni,446.28,ml,171.41
+467,Anchovies,227.54,kg,106.68
+468,Basil,466.84,L,146.12
+469,Sun-dried Tomatoes,187.5,g,99.51
+470,Cheddar Cheese,99.72,ml,73.73
+471,Onions,86.4,g,51.58
+472,Olives,253.45,kg,125.99
+473,Cheddar Cheese,273.45,g,134.73
+474,Bacon,162.9,g,86.81
+475,Bacon,222.9,kg,61.6
+476,Pepperoni,421.05,L,97.7
+477,Spinach,487.68,g,90.49
+478,Sun-dried Tomatoes,499.78,ml,47.97
+479,Olives,450.17,ml,107.82
+480,Arugula,435.12,L,196.95
+481,Sausage,347.7,g,147.09
+482,Bell Peppers,421.39,L,76.44
+483,Pepperoni,232.75,L,106.94
+484,Garlic,354.55,L,91.56
+485,Olives,92.76,L,165.92
+486,Garlic,58.94,kg,137.11
+487,Feta Cheese,413.13,g,96.13
+488,Pepperoni,497.0,g,109.13
+489,Garlic,362.19,L,18.94
+490,Barbecue Sauce,384.09,kg,128.25
+491,Pineapple,67.68,L,63.81
+492,Chicken,69.96,g,56.7
+493,Onions,153.3,L,133.85
+494,Sun-dried Tomatoes,452.5,ml,168.93
+495,Cheddar Cheese,106.99,L,18.92
+496,Anchovies,191.69,g,143.7
+497,Garlic,395.25,ml,76.88
+498,Pepperoni,422.82,ml,165.15
+499,Pepperoni,264.6,L,131.97
+500,Ham,94.33,g,173.31
+501,Pineapple,299.58,kg,156.57
+502,Cheddar Cheese,399.95,kg,90.51
+503,Ham,330.93,L,92.11
+504,Cheddar Cheese,111.05,ml,109.44
+505,Bacon,160.38,ml,157.09
+506,Bacon,440.94,L,143.29
+507,Garlic,381.85,g,17.45
+508,Ham,127.22,g,83.4
+509,Ham,386.59,L,186.17
+510,Parmesan Cheese,99.33,ml,146.02
+511,Feta Cheese,365.0,g,189.57
+512,Ricotta Cheese,184.09,kg,137.74
+513,Basil,322.96,g,158.94
+514,Bacon,245.16,g,82.79
+515,Parmesan Cheese,378.26,L,172.63
+516,Parmesan Cheese,413.33,L,114.68
+517,Mushrooms,92.69,kg,21.35
+518,Bacon,369.42,ml,15.99
+519,Garlic,446.0,L,13.62
+520,Anchovies,88.04,kg,183.54
+521,Basil,401.33,ml,186.26
+522,Ricotta Cheese,72.73,L,86.4
+523,Onions,171.84,ml,105.97
+524,Bacon,298.24,g,11.6
+525,Bell Peppers,499.09,ml,166.61
+526,Garlic,240.08,g,100.73
+527,Parmesan Cheese,447.52,L,61.2
+528,Barbecue Sauce,78.76,kg,27.03
+529,Olives,216.79,g,181.98
+530,Bacon,250.32,L,91.12
+531,Bell Peppers,176.99,L,123.08
+532,Bacon,123.98,g,61.0
+533,Pepperoni,497.44,ml,165.61
+534,Pineapple,74.14,L,121.02
+535,Anchovies,477.38,L,181.97
+536,Pesto,391.26,g,108.72
+537,Pepperoni,211.21,L,118.97
+538,Arugula,223.86,L,44.23
+539,Onions,497.32,kg,140.64
+540,Mozzarella Cheese,380.28,L,88.16
+541,Cheddar Cheese,295.09,g,145.05
+542,Garlic,274.71,L,28.33
+543,Ricotta Cheese,162.91,ml,69.93
+544,Onions,201.69,L,34.27
+545,Ham,146.34,g,189.83
+546,Anchovies,128.95,kg,53.26
+547,Cheddar Cheese,255.47,g,114.89
+548,Pepperoni,318.03,L,174.16
+549,Mushrooms,332.47,kg,57.42
+550,Pesto,418.2,ml,112.84
+551,Basil,313.77,L,11.19
+552,Barbecue Sauce,307.08,L,61.46
+553,Bell Peppers,243.87,kg,130.12
+554,Chicken,71.68,g,150.19
+555,Feta Cheese,107.27,kg,101.79
+556,Artichokes,459.53,g,75.63
+557,Mushrooms,470.35,ml,74.06
+558,Chicken,165.52,g,22.24
+559,Bacon,226.23,ml,133.07
+560,Parmesan Cheese,180.73,g,109.95
+561,Spinach,411.35,ml,26.83
+562,Mozzarella Cheese,461.05,kg,20.79
+563,Parmesan Cheese,341.38,kg,47.59
+564,Ham,218.09,g,74.63
+565,Ricotta Cheese,324.08,g,134.68
+566,Tomato,86.25,g,139.42
+567,Ricotta Cheese,459.25,L,149.32
+568,Arugula,92.87,g,148.39
+569,Spinach,202.6,ml,136.43
+570,Pineapple,406.14,L,146.94
+571,Basil,414.07,g,121.61
+572,Pineapple,228.36,L,15.73
+573,Ricotta Cheese,391.41,L,25.68
+574,Anchovies,124.26,ml,122.22
+575,Sun-dried Tomatoes,264.09,ml,185.71
+576,Artichokes,190.26,L,85.43
+577,Sausage,481.79,kg,41.25
+578,Spinach,343.53,g,151.37
+579,Sausage,353.43,L,129.51
+580,Pineapple,304.2,kg,19.17
+581,Spinach,422.83,kg,183.02
+582,Barbecue Sauce,405.98,g,23.63
+583,Feta Cheese,327.75,ml,11.17
+584,Pepperoni,410.22,L,111.61
+585,Feta Cheese,435.48,kg,153.94
+586,Artichokes,477.62,kg,140.42
+587,Mushrooms,489.05,g,44.04
+588,Cheddar Cheese,266.41,g,94.94
+589,Ham,497.79,ml,148.38
+590,Feta Cheese,134.02,ml,156.79
+591,Bell Peppers,238.29,L,192.06
+592,Ricotta Cheese,228.79,L,159.61
+593,Mushrooms,352.23,g,184.7
+594,Arugula,327.53,L,43.72
+595,Garlic,453.05,L,152.56
+596,Bell Peppers,489.14,kg,152.57
+597,Bacon,429.69,kg,112.85
+598,Pesto,174.44,kg,106.52
+599,Parmesan Cheese,429.04,L,119.78
+600,Bacon,271.45,g,145.48
+601,Pepperoni,338.7,L,185.62
+602,Ricotta Cheese,457.32,L,185.41
+603,Bacon,134.31,g,135.01
+604,Mozzarella Cheese,116.38,kg,31.38
+605,Ham,113.65,g,53.86
+606,Parmesan Cheese,269.09,L,99.12
+607,Sausage,423.58,ml,109.97
+608,Barbecue Sauce,182.37,L,76.21
+609,Mushrooms,161.55,ml,99.06
+610,Tomato,158.76,g,72.79
+611,Arugula,230.94,L,161.19
+612,Pesto,138.17,kg,124.58
+613,Garlic,282.8,L,195.24
+614,Onions,351.06,g,69.5
+615,Ham,117.1,g,128.62
+616,Sun-dried Tomatoes,255.21,ml,103.72
+617,Pesto,483.28,L,121.13
+618,Garlic,156.78,L,86.91
+619,Mushrooms,382.78,g,96.33
+620,Garlic,110.65,ml,197.03
+621,Garlic,342.26,g,92.18
+622,Tomato,401.21,L,188.78
+623,Bell Peppers,250.47,L,123.58
+624,Garlic,137.06,ml,74.48
+625,Anchovies,299.5,ml,143.66
+626,Sausage,350.51,L,90.86
+627,Onions,56.98,ml,64.93
+628,Pineapple,459.82,kg,150.32
+629,Pesto,430.95,ml,26.75
+630,Barbecue Sauce,406.22,kg,80.23
+631,Olives,357.2,ml,64.12
+632,Feta Cheese,304.93,ml,148.46
+633,Cheddar Cheese,356.45,kg,17.56
+634,Basil,141.95,kg,169.37
+635,Olives,142.66,kg,172.79
+636,Olives,272.1,kg,127.13
+637,Pesto,279.88,ml,161.27
+638,Bell Peppers,432.42,ml,88.28
+639,Garlic,207.64,ml,192.72
+640,Sausage,379.3,ml,92.09
+641,Basil,391.68,ml,24.25
+642,Pesto,62.36,g,78.47
+643,Ricotta Cheese,137.51,ml,183.62
+644,Mushrooms,386.59,g,178.38
+645,Pepperoni,363.74,kg,12.36
+646,Anchovies,56.27,L,54.46
+647,Barbecue Sauce,56.69,L,37.97
+648,Onions,143.74,g,104.36
+649,Parmesan Cheese,427.53,g,25.6
+650,Barbecue Sauce,409.47,g,98.18
+651,Pineapple,452.79,L,103.5
+652,Artichokes,211.49,ml,91.5
+653,Anchovies,231.85,L,142.22
+654,Ham,208.57,ml,51.31
+655,Spinach,303.89,L,100.72
+656,Ham,136.86,ml,110.61
+657,Garlic,440.17,g,61.49
+658,Artichokes,54.95,L,80.27
+659,Pepperoni,139.82,ml,130.6
+660,Feta Cheese,371.57,L,17.56
+661,Pesto,306.62,kg,162.86
+662,Spinach,267.4,L,72.74
+663,Ham,410.3,kg,174.58
+664,Mozzarella Cheese,398.1,g,77.46
+665,Olives,331.02,kg,111.8
+666,Sausage,301.61,L,86.61
+667,Arugula,450.22,kg,69.58
+668,Basil,192.76,ml,42.54
+669,Mushrooms,310.6,ml,182.02
+670,Ricotta Cheese,103.67,g,122.61
+671,Bell Peppers,199.54,L,193.04
+672,Bell Peppers,50.56,L,86.8
+673,Ham,370.37,kg,79.28
+674,Barbecue Sauce,177.66,L,93.41
+675,Chicken,463.32,g,94.78
+676,Bacon,237.6,g,159.33
+677,Feta Cheese,83.39,L,174.59
+678,Olives,206.17,ml,40.37
+679,Sausage,383.54,kg,156.26
+680,Mozzarella Cheese,312.89,kg,192.76
+681,Olives,308.65,g,105.2
+682,Arugula,155.22,kg,12.77
+683,Chicken,264.67,g,116.6
+684,Artichokes,97.37,L,134.15
+685,Tomato,206.4,kg,139.65
+686,Pesto,300.76,L,116.47
+687,Basil,281.26,kg,143.48
+688,Anchovies,306.65,ml,11.29
+689,Bell Peppers,446.32,ml,76.09
+690,Cheddar Cheese,387.64,ml,169.77
+691,Barbecue Sauce,221.36,ml,67.9
+692,Cheddar Cheese,457.26,ml,172.75
+693,Parmesan Cheese,225.7,L,109.33
+694,Spinach,477.71,g,18.5
+695,Ham,214.89,L,172.76
+696,Sausage,173.86,g,174.08
+697,Sausage,235.41,g,137.92
+698,Spinach,267.42,g,176.0
+699,Sun-dried Tomatoes,120.18,kg,117.48
+700,Basil,321.68,g,163.23
+701,Feta Cheese,250.59,kg,40.16
+702,Spinach,200.29,L,59.28
+703,Cheddar Cheese,315.47,kg,177.48
+704,Mozzarella Cheese,145.34,ml,38.92
+705,Spinach,452.84,kg,28.32
+706,Garlic,179.29,kg,127.95
+707,Bacon,224.78,L,96.44
+708,Pineapple,244.86,kg,58.97
+709,Cheddar Cheese,456.06,ml,113.37
+710,Feta Cheese,413.66,g,18.76
+711,Ham,373.66,g,165.81
+712,Cheddar Cheese,471.21,kg,169.77
+713,Barbecue Sauce,312.6,ml,108.13
+714,Sun-dried Tomatoes,57.0,kg,63.04
+715,Pepperoni,232.22,kg,22.06
+716,Sausage,176.72,kg,95.55
+717,Spinach,347.73,kg,116.29
+718,Tomato,280.48,ml,54.84
+719,Olives,355.43,kg,25.78
+720,Onions,339.1,kg,59.24
+721,Mozzarella Cheese,457.08,ml,78.96
+722,Cheddar Cheese,419.06,L,35.63
+723,Garlic,393.14,g,98.63
+724,Ham,378.01,L,146.64
+725,Mozzarella Cheese,259.22,ml,151.57
+726,Feta Cheese,391.42,kg,55.54
+727,Pepperoni,410.36,ml,105.77
+728,Mushrooms,130.19,g,41.29
+729,Mozzarella Cheese,60.15,kg,15.06
+730,Sausage,420.61,ml,173.58
+731,Chicken,232.73,ml,39.4
+732,Artichokes,450.7,g,17.39
+733,Bell Peppers,417.25,ml,108.93
+734,Feta Cheese,447.86,g,90.52
+735,Chicken,492.92,L,125.03
+736,Barbecue Sauce,243.74,ml,16.15
+737,Arugula,424.82,g,20.77
+738,Bacon,161.61,ml,24.38
+739,Pesto,190.6,g,28.61
+740,Artichokes,387.74,ml,53.62
+741,Artichokes,142.27,kg,142.13
+742,Barbecue Sauce,262.44,g,69.82
+743,Barbecue Sauce,146.12,g,186.39
+744,Mozzarella Cheese,313.6,L,102.8
+745,Pepperoni,141.16,ml,78.54
+746,Bacon,341.22,L,74.79
+747,Pesto,439.31,g,45.94
+748,Pineapple,305.04,ml,128.87
+749,Arugula,377.78,kg,158.82
+750,Parmesan Cheese,129.92,L,156.51
+751,Chicken,232.73,ml,75.06
+752,Bell Peppers,425.89,g,73.41
+753,Garlic,153.36,L,37.29
+754,Tomato,120.94,ml,42.73
+755,Cheddar Cheese,460.18,kg,111.5
+756,Spinach,444.78,L,159.67
+757,Mushrooms,413.91,ml,59.58
+758,Garlic,116.04,L,17.47
+759,Garlic,385.41,g,139.63
+760,Barbecue Sauce,336.38,L,30.16
+761,Garlic,220.8,g,90.2
+762,Chicken,402.56,ml,17.44
+763,Tomato,334.09,L,33.76
+764,Spinach,104.38,g,72.88
+765,Bell Peppers,293.25,kg,97.62
+766,Anchovies,392.15,L,62.96
+767,Bacon,403.58,L,113.17
+768,Spinach,456.26,kg,34.6
+769,Pepperoni,308.96,kg,86.53
+770,Bacon,153.6,g,127.38
+771,Barbecue Sauce,236.84,g,72.48
+772,Sausage,220.21,ml,113.5
+773,Parmesan Cheese,64.83,kg,180.38
+774,Bell Peppers,117.24,kg,114.52
+775,Bacon,119.72,ml,171.6
+776,Anchovies,169.34,g,72.78
+777,Pepperoni,295.51,ml,50.42
+778,Basil,495.28,L,157.72
+779,Anchovies,186.63,ml,12.55
+780,Arugula,358.34,kg,55.7
+781,Artichokes,239.33,kg,109.58
+782,Tomato,105.79,ml,69.56
+783,Chicken,169.64,ml,154.76
+784,Bell Peppers,190.25,L,15.12
+785,Barbecue Sauce,482.09,L,171.49
+786,Cheddar Cheese,158.09,kg,173.27
+787,Feta Cheese,195.79,g,106.81
+788,Spinach,201.06,g,131.89
+789,Olives,287.61,g,55.63
+790,Garlic,226.94,ml,83.31
+791,Bell Peppers,248.44,kg,59.9
+792,Mushrooms,265.17,g,168.2
+793,Cheddar Cheese,325.17,L,43.85
+794,Mushrooms,441.33,g,17.94
+795,Parmesan Cheese,206.81,kg,175.68
+796,Basil,54.15,kg,101.1
+797,Ham,371.34,L,138.5
+798,Pepperoni,90.27,g,106.14
+799,Sun-dried Tomatoes,257.5,kg,200.0
+800,Mozzarella Cheese,467.88,g,114.67
+801,Garlic,132.3,g,172.64
+802,Pineapple,302.16,kg,181.39
+803,Parmesan Cheese,75.67,L,106.8
+804,Pesto,249.82,L,122.78
+805,Tomato,273.13,g,55.09
+806,Mushrooms,266.62,L,33.63
+807,Mushrooms,443.88,kg,188.69
+808,Spinach,253.74,g,17.73
+809,Bell Peppers,329.26,g,33.87
+810,Mozzarella Cheese,205.2,L,103.04
+811,Mushrooms,332.08,ml,188.14
+812,Ham,323.8,ml,63.72
+813,Barbecue Sauce,495.17,g,63.67
+814,Bell Peppers,373.52,g,57.72
+815,Pesto,385.61,ml,131.13
+816,Basil,277.97,ml,90.02
+817,Olives,95.55,L,52.45
+818,Tomato,340.42,ml,123.08
+819,Sausage,424.69,L,157.27
+820,Pineapple,499.24,L,13.39
+821,Anchovies,226.3,L,26.16
+822,Tomato,383.09,g,106.01
+823,Bell Peppers,190.8,g,24.78
+824,Pineapple,192.43,g,30.98
+825,Mozzarella Cheese,351.4,ml,188.19
+826,Barbecue Sauce,358.7,L,11.43
+827,Pesto,67.59,L,108.22
+828,Arugula,164.0,L,100.12
+829,Sausage,398.67,g,12.56
+830,Arugula,442.08,ml,44.85
+831,Bacon,245.02,ml,198.98
+832,Spinach,303.24,ml,170.45
+833,Bacon,144.87,kg,50.42
+834,Sun-dried Tomatoes,181.24,L,172.16
+835,Pineapple,370.15,L,72.63
+836,Sausage,485.72,ml,192.42
+837,Cheddar Cheese,317.37,g,34.95
+838,Arugula,281.52,ml,30.61
+839,Pepperoni,305.81,L,67.97
+840,Chicken,335.76,kg,41.26
+841,Basil,100.6,g,131.53
+842,Feta Cheese,260.92,ml,27.16
+843,Spinach,295.56,g,81.38
+844,Arugula,141.6,L,107.21
+845,Artichokes,236.64,g,156.48
+846,Mushrooms,106.99,g,82.62
+847,Spinach,171.5,g,144.5
+848,Spinach,173.18,g,15.79
+849,Garlic,272.67,g,154.95
+850,Pineapple,99.83,L,33.73
+851,Garlic,329.66,ml,82.73
+852,Parmesan Cheese,468.65,g,12.55
+853,Pineapple,344.5,L,103.33
+854,Artichokes,368.76,kg,14.7
+855,Arugula,354.14,ml,75.35
+856,Anchovies,325.66,g,199.01
+857,Onions,319.97,kg,45.87
+858,Ricotta Cheese,356.18,g,57.06
+859,Mushrooms,379.37,L,111.05
+860,Anchovies,122.86,L,133.53
+861,Feta Cheese,236.42,kg,134.5
+862,Ricotta Cheese,269.03,L,195.09
+863,Pepperoni,298.65,g,159.51
+864,Garlic,153.39,g,66.42
+865,Mushrooms,449.87,ml,185.62
+866,Ham,146.14,ml,15.82
+867,Sausage,486.68,g,104.48
+868,Feta Cheese,303.41,ml,163.55
+869,Bacon,485.31,ml,27.63
+870,Arugula,292.87,ml,30.84
+871,Parmesan Cheese,376.77,g,119.63
+872,Pineapple,205.08,ml,173.13
+873,Bell Peppers,62.44,kg,105.78
+874,Spinach,292.31,L,181.7
+875,Pineapple,173.42,g,170.56
+876,Ricotta Cheese,474.57,L,199.96
+877,Sun-dried Tomatoes,340.53,ml,173.15
+878,Onions,243.87,L,182.08
+879,Pepperoni,459.14,L,34.24
+880,Pepperoni,490.08,g,47.85
+881,Ham,159.05,ml,145.16
+882,Pineapple,191.92,ml,47.08
+883,Ham,204.04,L,86.96
+884,Chicken,404.82,ml,121.94
+885,Parmesan Cheese,406.51,kg,182.3
+886,Spinach,360.17,kg,142.52
+887,Anchovies,301.61,kg,102.02
+888,Chicken,157.94,L,48.59
+889,Basil,138.82,kg,84.29
+890,Cheddar Cheese,494.32,ml,42.93
+891,Olives,480.39,L,77.91
+892,Basil,53.36,kg,110.95
+893,Chicken,240.61,L,44.07
+894,Pepperoni,51.71,kg,153.38
+895,Bacon,152.44,kg,103.94
+896,Cheddar Cheese,392.04,g,100.84
+897,Olives,221.62,g,146.73
+898,Sun-dried Tomatoes,449.97,g,76.72
+899,Pepperoni,183.13,ml,115.96
+900,Bacon,464.28,kg,154.22
+901,Onions,68.68,g,166.57
+902,Tomato,437.26,L,70.19
+903,Barbecue Sauce,305.88,kg,45.52
+904,Mushrooms,433.81,ml,102.51
+905,Garlic,185.45,ml,181.7
+906,Garlic,245.78,g,115.53
+907,Sausage,401.67,kg,171.08
+908,Basil,239.34,g,92.33
+909,Anchovies,179.92,g,113.91
+910,Mozzarella Cheese,145.87,L,83.72
+911,Ham,388.17,kg,78.46
+912,Arugula,431.79,g,174.22
+913,Mushrooms,117.21,ml,36.51
+914,Olives,350.29,ml,113.36
+915,Onions,391.11,ml,81.8
+916,Barbecue Sauce,280.33,g,49.62
+917,Parmesan Cheese,345.82,L,177.79
+918,Artichokes,60.26,g,182.15
+919,Chicken,370.53,ml,173.44
+920,Ricotta Cheese,156.98,L,60.82
+921,Cheddar Cheese,427.3,kg,36.75
+922,Ricotta Cheese,412.0,L,134.21
+923,Sausage,478.73,L,151.0
+924,Mozzarella Cheese,225.23,L,44.08
+925,Olives,166.36,ml,47.25
+926,Olives,70.63,ml,134.09
+927,Bell Peppers,288.02,kg,186.77
+928,Artichokes,141.25,kg,117.25
+929,Barbecue Sauce,149.34,ml,164.83
+930,Cheddar Cheese,152.92,kg,87.98
+931,Olives,418.75,L,134.21
+932,Barbecue Sauce,60.99,g,82.29
+933,Artichokes,336.55,L,59.01
+934,Bell Peppers,270.85,ml,167.07
+935,Bell Peppers,200.77,ml,142.69
+936,Parmesan Cheese,497.81,ml,45.76
+937,Mushrooms,152.54,g,102.88
+938,Sun-dried Tomatoes,171.65,g,181.89
+939,Bell Peppers,102.91,kg,144.08
+940,Ricotta Cheese,415.78,kg,76.85
+941,Cheddar Cheese,459.02,ml,180.94
+942,Onions,58.92,g,178.19
+943,Parmesan Cheese,373.01,kg,191.28
+944,Ham,435.46,ml,187.48
+945,Pesto,155.76,L,81.28
+946,Onions,425.54,kg,87.19
+947,Barbecue Sauce,332.93,kg,151.01
+948,Tomato,169.15,g,58.03
+949,Onions,357.95,kg,125.24
+950,Ricotta Cheese,95.3,L,116.27
+951,Anchovies,54.6,L,119.52
+952,Tomato,107.67,ml,163.06
+953,Sun-dried Tomatoes,401.88,L,75.0
+954,Ham,346.04,L,138.12
+955,Cheddar Cheese,482.88,g,176.4
+956,Pesto,190.86,ml,91.27
+957,Sun-dried Tomatoes,477.93,kg,38.26
+958,Ham,389.43,kg,17.13
+959,Sun-dried Tomatoes,116.94,ml,195.5
+960,Pesto,477.05,kg,71.64
+961,Sausage,246.04,kg,155.33
+962,Olives,321.75,L,112.46
+963,Bell Peppers,429.45,kg,186.85
+964,Artichokes,325.35,g,157.11
+965,Parmesan Cheese,345.78,g,122.37
+966,Cheddar Cheese,52.45,kg,77.43
+967,Tomato,291.11,g,139.57
+968,Ham,312.92,g,40.01
+969,Mozzarella Cheese,312.22,ml,56.9
+970,Ricotta Cheese,344.73,ml,99.91
+971,Chicken,254.68,kg,158.88
+972,Sausage,398.35,kg,97.26
+973,Tomato,200.17,ml,182.25
+974,Basil,275.21,kg,142.62
+975,Olives,165.93,ml,136.13
+976,Tomato,438.82,L,126.85
+977,Garlic,271.45,ml,46.73
+978,Mushrooms,77.68,g,133.77
+979,Olives,209.25,L,29.66
+980,Pesto,422.02,kg,39.32
+981,Ham,166.14,kg,52.75
+982,Anchovies,291.74,ml,82.0
+983,Basil,419.09,kg,160.2
+984,Olives,216.35,L,76.12
+985,Barbecue Sauce,340.65,ml,40.88
+986,Basil,116.92,ml,102.92
+987,Garlic,294.27,L,76.37
+988,Pineapple,436.85,g,57.16
+989,Mushrooms,494.41,L,195.11
+990,Pesto,334.83,ml,75.77
+991,Barbecue Sauce,317.47,g,169.91
+992,Feta Cheese,267.99,L,63.2
+993,Pineapple,263.06,g,146.8
+994,Bacon,464.16,g,10.07
+995,Ricotta Cheese,469.32,kg,105.18
+996,Sausage,133.8,ml,194.25
+997,Sausage,466.2,ml,70.89
+998,Artichokes,488.09,g,174.7
+999,Bell Peppers,177.89,g,151.42
+1000,Pesto,316.36,kg,65.71
