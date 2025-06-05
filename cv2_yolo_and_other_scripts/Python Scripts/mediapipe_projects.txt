@@ -1,0 +1,17 @@
+mediapipe_projects/
+├── 01_face_detection.py
+├── 02_hand_tracker.py
+├── 03_pose_stickman.py
+└── 04_npc_mirror_plus.py
+
+
+📅 Daily Plan: Learn + Code (4 Projects per Day)
+Each day, we’ll follow:
+
+🔍 Concept – Quick theory about OpenCV or MediaPipe
+
+💻 Mini Project – A focused use-case (face detection, hand tracking, filters, pose mirroring, etc.)
+
+🧠 Twist/Challenge – A small creative extension or variant
+
+✅ Recap & GitHub upload – Document and save your work
