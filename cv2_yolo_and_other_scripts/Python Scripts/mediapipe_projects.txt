@@ -2,8 +2,15 @@ mediapipe_projects/
 ├── 01_face_detection.py
 ├── 02_hand_tracker.py
 ├── 03_pose_stickman.py
-└── 04_npc_mirror_plus.py
-
+|── 04_npc_mirror_plus.py
+├── 05_emotion_detector.py
+├── 06_hand_volume_control.py
+├── 07_dancing_stickman.py
+|── 08_ar_sunglasses.py
+├── 09_muscle_pose_tracker.py       
+├── 10_face_mood_graph.py           
+├── 11_fitness_counter.py           
+└── 12_hand_sign_language.py
 
 📅 Daily Plan: Learn + Code (4 Projects per Day)
 Each day, we’ll follow:
