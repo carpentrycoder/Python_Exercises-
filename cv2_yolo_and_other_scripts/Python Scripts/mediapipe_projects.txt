@@ -10,7 +10,14 @@ mediapipe_projects/
 ├── 09_muscle_pose_tracker.py       
 ├── 10_face_mood_graph.py           
 ├── 11_fitness_counter.py           
-└── 12_hand_sign_language.py
+|── 12_hand_sign_language.py
+├── 13_drowsiness_alert.py
+├── 14_yoga_pose_checker.py
+├── 15_hand_pong_game.py
+|── 16_face_filter_snap.py
+|__17_face_distance_estimator.py
+|__18_finger_paint_virtual_canvas.py
+|__19_Hand-ControlledVirtual_Piano.py
 
 📅 Daily Plan: Learn + Code (4 Projects per Day)
 Each day, we’ll follow:
