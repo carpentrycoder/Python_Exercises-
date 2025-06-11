@@ -15,9 +15,10 @@ mediapipe_projects/
 ├── 14_yoga_pose_checker.py
 ├── 15_hand_pong_game.py
 |── 16_face_filter_snap.py
-|__17_face_distance_estimator.py
-|__18_finger_paint_virtual_canvas.py
-|__19_Hand-ControlledVirtual_Piano.py
+|__ 17_face_distance_estimator.py
+|__ 18_finger_paint_virtual_canvas.py
+|__ 19_Hand-ControlledVirtual_Piano.py
+|__ 20_gesture_controlled_robotic_arm_simulator.py
 
 📅 Daily Plan: Learn + Code (4 Projects per Day)
 Each day, we’ll follow:
